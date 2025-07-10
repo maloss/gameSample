@@ -1,0 +1,1 @@
+DirectX11とXAudio2を使用したWindows向けゲームシステムの実行サンプルです。
